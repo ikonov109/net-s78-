@@ -1,17 +1,17 @@
 [
   {
     "name": "Документация wtjpp",
-    "url": "https://net-s78-.github.io/wtjpp-docs",
+    "url": "https://ikonov109.github.io/s78.github.io/",
     "description": "Описание протокола и форматов"
   },
   {
     "name": "Блог узла 1",
-    "url": "https://ваш-логин.github.io/blog-node1",
+    "url": "https://ikonov109.github.io/s78.github.io/",
     "description": "Первый узел сети, обновляется автоматически"
   },
   {
     "name": "Инструменты сети",
-    "url": "https://ваш-логин.github.io/tools",
-    "description": "JS-утилиты для работы с wtjpp"
+    "url": "https://net-s78-.github.io/",
+    "description": "JS-утилиты для работы с wtjpp и код GitHub"
   }
 ]
