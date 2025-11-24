@@ -13,5 +13,10 @@
     "name": "Инструменты сети",
     "url": "https://net-s78-.github.io/",
     "description": "JS-утилиты для работы с wtjpp и код GitHub"
+  },
+  {
+    "name": "Инструменты для создания",
+    "url": "https://ikonov109.github.io/create-host.github.io/",
+    "description": "wtjpp://hosting.net-s78-.site"
   }
 ]
